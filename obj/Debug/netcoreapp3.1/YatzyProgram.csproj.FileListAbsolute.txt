@@ -1,0 +1,11 @@
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.exe
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.deps.json
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.runtimeconfig.json
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.dll
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\YatzyProgram.pdb
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\YatzyProgram.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\YatzyProgram.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\YatzyProgram.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\YatzyProgram.dll
+C:\Users\Thomas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\YatzyProgram.pdb
