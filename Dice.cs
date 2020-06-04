@@ -12,7 +12,7 @@ namespace YatzyProgram
 
         }
 
-
+        
         protected static Random rand = new Random();
         internal virtual void Roll()
         {
